@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 1. Assume that you've have basic knowledge of Plover theory, including some "obscure" information.
     Read [Art of Chording](https://www.artofchording.com/) and [Learn Plover!](https://sites.google.com/site/ploverdoc/)
     if you don't.

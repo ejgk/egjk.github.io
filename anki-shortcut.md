@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 Similar to https://moritzmolch.com/932 but applied for a newer version.
 
 https://ankiweb.net/shared/info/24411424 works as well, however it only allows
