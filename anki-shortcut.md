@@ -1,7 +1,3 @@
----
-title: Document Center
----
-
 Similar to https://moritzmolch.com/932 but applied for a newer version.
 
 https://ankiweb.net/shared/info/24411424 works as well, however it only allows
@@ -23,5 +19,5 @@ Go to `aqt/reviewer.py` and edit the `_shortcutKeys` function.
 Note that there must be no conflict (you can delete
 the existing default shortcuts)
 
-Also: avoid conflict with `setShortcut` calls in ` aqt/forms/main.py`
+Also: avoid conflict with `setShortcut` calls in `aqt/forms/main.py`
 and `globalShortcuts` in `setupKeys` function in `aqt/main.py`.

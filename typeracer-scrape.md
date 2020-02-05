@@ -1,7 +1,3 @@
----
-title: Document Center
----
-
 ## How to scrape text from TypeRacer
 
 * Open TypeRacer normally while open the inspector
