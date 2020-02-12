@@ -87,3 +87,5 @@
     actual -> actually (add -T), eventual -> eventually (add `*`)
 
 17. Weird consonant cluster can be briefed (angle, single, struggle, dwarf)
+
+18. Random suffix stroke note: there's no suffix stroke for the ending "-tic" sound. Only "-ic" and "-istic". For non-"-stic" words, stroke `TIK` will usually write "tick". Instead, stick the `t` to the previous sound. Example: haptic, automatic, statistics.
